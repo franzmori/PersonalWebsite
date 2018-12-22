@@ -41,9 +41,9 @@ ul{
     list-style: none;
 }
 
-header, section, footer{
-    /* border: 1px red solid; */
-}
+/* header, section, footer{
+    border: 1px red solid;
+} */
 
 .highlight{
     font-weight: 700;
