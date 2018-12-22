@@ -9,7 +9,7 @@ body{
 }
 
 .main-page{
-    border: 1px orange solid;
+    /* border: 1px orange solid; */
     display: grid;
     grid-template-rows: 85px auto 54px;
     width: 100%;
@@ -18,21 +18,21 @@ body{
 }
 
 .container{
-    border: 1px cyan solid;
+    /* border: 1px cyan solid; */
     width: 80%;
     height: 100%;
     margin: auto;
 }
 
 .row{
-    border: 1px purple solid;
+    /* border: 1px purple solid; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
 .column{
-    border: 1px green solid;
+    /* border: 1px green solid; */
     margin: auto 0px;
 }
 
@@ -42,7 +42,7 @@ ul{
 }
 
 header, section, footer{
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 .highlight{
@@ -67,6 +67,10 @@ color: #94B7BB;
 
 
 /* header */
+
+header .container{
+border-bottom: 1px #acacac solid;
+}
 
 header li{
     padding-left: 18px;
@@ -102,6 +106,10 @@ header a{
 footer{
 font-size: 12px;
 }
+
+footer .container{
+    border-top: 1px #acacac solid;
+    }
 
 footer .column{
     flex: 1;
