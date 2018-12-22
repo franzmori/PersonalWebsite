@@ -1,0 +1,18 @@
+html
+---------
+
+- blog - tavo; wordpress
+- contact - francis
+- work / gallery - tavo
+- about - francis
+- shop - pending
+
+css
+---------
+
+- Font type - francis
+- highlight for the main page links - francis
+- Footer - francis
+- header - francis
+- body - depends on the html
+
