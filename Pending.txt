@@ -15,4 +15,5 @@ css
 - Footer - francis
 - header - francis
 - body - depends on the html
+- revisar .about-section img{ - tavo
 
