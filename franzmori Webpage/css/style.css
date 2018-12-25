@@ -118,7 +118,7 @@ header a{
     margin-left: auto;
     margin-right: auto;
     display:grid;
-    grid-template-rows: 85px 1fr;
+    grid-template-rows: 54px 1fr;
     grid-template-columns: 1fr 1fr;
     overflow: auto;
 }
@@ -137,6 +137,7 @@ header a{
 }
 
 .illustration-image-grid{
+    margin-bottom: 10px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 10px;
