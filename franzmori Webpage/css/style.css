@@ -123,6 +123,10 @@ header a{
     overflow: auto;
 }
 
+.illustration-section li{
+    text-transform: uppercase;
+}
+
 .illustration-header{
     grid-column-start: 2;
 }
@@ -136,13 +140,20 @@ header a{
     padding-left: 18px;
 }
 
-.illustration-image-grid{
+#illustration-image-grid{
     margin-bottom: 10px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 10px;
     padding: 10px;
     overflow: auto;
+}
+
+#illustration-image-grid img{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    object-fit: scale-down;
 }
 
 .illustration-image-fullsize{
