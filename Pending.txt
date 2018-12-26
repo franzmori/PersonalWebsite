@@ -3,17 +3,21 @@ html
 
 - blog - tavo; wordpress
 - contact - francis
-- work / gallery - tavo
 - about - francis
 - shop - pending
 
 css
 ---------
 
+- body - depends on the html
+- revisar .about-section img - tavo
+
+done
+---------
+
+- work / gallery - tavo
 - Font type - francis
+- poner los highlights a la página en la que estás en ese momento
 - highlight for the main page links - francis
 - Footer - francis
 - header - francis
-- body - depends on the html
-- revisar .about-section img{ - tavo
-

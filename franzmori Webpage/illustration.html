@@ -17,7 +17,7 @@
             <div class="container row">
                 <a href="index.html" class="column"><h1><span class="highlight">franz</span>mori</h1></a>
                 <ul class="row column">
-                    <li><a href="illustration.html">illustration</a></li>
+                    <li><a class="highlight" href="illustration.html">illustration</a></li>
                     <li><a href="graphicd.html">graphic design</a></li>
                     <li><a href="www.society6.com/franzmori">shop</a></li>
                     <li><a href="blog.html">blog</a></li>
@@ -28,19 +28,19 @@
         </header>
 
         <div class="illustration-section">
-            <div class="illustration-header">
+            <div id="illustration-header">
                 <ul class="row">
-                    <li>all</li>
-                    <li>blackwork</li>
-                    <li>watercolor</li>
-                    <li>digital media</li>
-                    <li>tututuesday</li>
+                    <li class="highlight" onclick="show_image_category(this)">All</li>
+                    <li onclick="show_image_category(this)">Blackwork</li>
+                    <li onclick="show_image_category(this)">Watercolor</li>
+                    <li onclick="show_image_category(this)">Digital Media</li>
+                    <li onclick="show_image_category(this)">Tututuesday</li>
                 </ul>
             </div>
             <div id="illustration-image-grid">
             </div>
             <div class="illustration-image-fullsize">
-                <img src="http://via.placeholder.com/750">
+                <img id="illustration-image-large" src="">
             </div>
         </div>
         
