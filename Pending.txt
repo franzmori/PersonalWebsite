@@ -21,3 +21,6 @@ done
 - highlight for the main page links - francis
 - Footer - francis
 - header - francis
+- add highlight class to the footer of illustration page
+- remove all section from the illustration page
+- remove the marker athlete illustration
