@@ -7,6 +7,7 @@
     <title>Franzmori Illustration | HOME</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <script type="text/javascript" src="js/checkEmailSubmit.js"></script>
 </head>
 <body>
     <div class="main-page">
@@ -15,11 +16,11 @@
                 <a href="index.html" class="column"><h1><span class="highlight">franz</span>mori</h1></a>
                 <ul class="row column">
                     <li><a href="illustration.html">illustration</a></li>
-                    <li><a href="graphicd.html">graphic design</a></li>
-                    <li><a href="www.society6.com/franzmori">shop</a></li>
-                    <li><a href="blog.html">blog</a></li>
+                    <!-- <li><a href="graphicd.html">graphic design</a></li> -->
+                    <li><a href="https://www.society6.com/franzmori">shop</a></li>
+                    <!-- <li><a href="blog.html">blog</a></li> -->
                     <li><a href="about.html">about</a></li>
-                    <li><a href="contact.html">contact</a></li>
+                    <li><a class="highlight" href="contact.html">contact</a></li>
                 </ul>
             </div>
         </header>
@@ -28,36 +29,36 @@
             <div id="contact-img">
                 <img src="img/Contact.jpg" alt="Leo pardo">
             </div>
-                <div>
-                    <h2>Please email me at contact@franzmori.com or fill the form below. Thank you!</h2>
-                    <form>
-                        <div>
-                            <label>Name</label>
-                            <input type="text" name="Name"
-                            >
-                        </div>
-                        <br>
-                        <div>
-                            <label>Email</label>
-                            <input type="email" name="email">
-                        </div>
-                        <br>
-                        <div>
-                            <label>Message</label>
-                            <textarea name="Message"></textarea>
-                        </div>
-                      <button type="submit" class="button">Submit</button>
-                    </form>
-                </div>
+
+            <div id="contact-form-div">
+                <h2>Please email me at contact@franzmori.com or fill the form below. Thank you!</h2>
+
+                <form id="contactForm" action="http://www.franzmori.com/cgi-sys/formmail.pl" method="post" name="hgmailer">
+
+                    <ul>
+                        <li><input type="hidden" name="recipient" value="contact@franzmori.com"></li>
+                        <li><input type="hidden" name="subject" value="Franzmori Contact E-Mail"></li>
+                        <li><label>Name</label></li>
+                        <li><input class="contact-input-size" type="text" name="name"></li>
+                        <li><label>Email</label></li>
+                        <li><input class="contact-input-size" type="email" name="email"></li>
+                        <li><label>Message</label></li>
+                        <li><textarea name="comment"></textarea></li>
+                        <li><input type="button" value="Submit" onclick="hgsubmit();"></li>
+                        <li><input type="hidden" name="redirect" value="http://www.franzmori.com/"></li>
+                    </ul>
+                    
+                </form>
+            </div>
         </section>
         
         <footer>
             <div class="container row">
                 <div class="column">
                     <ul class="row column"id="footer-left">
-                        <li><a href="faq.html">faq</a></li>
+                        <!-- <li><a href="faq.html">faq</a></li>
                         <li>|</li>
-                        <li><a href="privacy.html">privacy policy</a></li>
+                        <li><a href="privacy.html">privacy policy</a></li> -->
                     </ul>
                 </div>
                 <nav class="column">
