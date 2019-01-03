@@ -2,15 +2,23 @@ html
 ---------
 
 - blog - tavo; wordpress
-- contact - francis
 - about - francis
 - shop - pending
+- faq
+- privacy policy
+- check links to society six, behance
 
 css
 ---------
 
 - body - depends on the html
-- revisar .about-section img - tavo
+
+
+Misc
+---------
+
+- thumbnails for the images
+- restructure the file name and size format and folders
 
 done
 ---------
@@ -24,3 +32,8 @@ done
 - add highlight class to the footer of illustration page
 - remove all section from the illustration page
 - remove the marker athlete illustration
+- revisar .about-section img - tavo
+- check the sizing of the textarea: fill to container not working
+- add overflow to textarea
+- contact - francis, pero la hizo tavo por la urgencia
+- remove graphic design, blog, faq, privacy policy
