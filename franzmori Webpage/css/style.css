@@ -252,7 +252,7 @@ header a{
     object-fit: fill;
    }
 
-#contactForm input[type="button"]{
+#contact-form input[type="button"]{
     padding: 0;
     border: none;
     background: #222427;
