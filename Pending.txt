@@ -4,9 +4,6 @@ html
 - blog - tavo; wordpress
 - about - francis
 - shop - pending
-- faq
-- privacy policy
-- check links to society six, behance
 
 css
 ---------
@@ -19,6 +16,8 @@ Misc
 
 - thumbnails for the images
 - restructure the file name and size format and folders
+- design faq page
+- design privacy policy
 
 done
 ---------
@@ -37,3 +36,4 @@ done
 - add overflow to textarea
 - contact - francis, pero la hizo tavo por la urgencia
 - remove graphic design, blog, faq, privacy policy
+- check links to society six, behance
