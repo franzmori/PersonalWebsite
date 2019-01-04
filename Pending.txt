@@ -18,6 +18,7 @@ Misc
 - restructure the file name and size format and folders
 - design faq page
 - design privacy policy
+- design responsive design
 
 done
 ---------

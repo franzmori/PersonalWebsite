@@ -1,5 +1,4 @@
 import os
-from glob import glob
 
 path = 'franzmori Webpage/img/'
 results = {}
@@ -16,5 +15,8 @@ for root, directories, filenames in os.walk(path):
             else:
                 results[directory] = [filename]
             # print(os.path.join(root,filename))
+
+for category in results:
+    results[category].sort(reverse=True)
 
 print(results)
