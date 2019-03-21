@@ -1,4 +1,4 @@
-html
+﻿html
 ---------
 
 - blog - tavo; wordpress
@@ -14,11 +14,9 @@ css
 Misc
 ---------
 
-- thumbnails for the images
-- restructure the file name and size format and folders
 - design faq page
 - design privacy policy
-- design responsive design
+- design responsive design (XSmall <600px Width; Small 600-767px Width; Medium 768-1023px Width; Large >1024 px Width)
 
 done
 ---------
@@ -38,3 +36,5 @@ done
 - contact - francis, pero la hizo tavo por la urgencia
 - remove graphic design, blog, faq, privacy policy
 - check links to society six, behance
+- thumbnails for the images
+- restructure the file name and size format and folders
