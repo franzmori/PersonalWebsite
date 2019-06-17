@@ -1,0 +1,13 @@
+CONTENT
+-------
+
+- Folder 'img' contains the images used for the website layout.
+- Folder 'Images' contains the images for the illustration gallery.
+    - Images have a resolution of 1000x1000
+- Folder 'Thumbnails' contains the thumbnails for the illustration gallery.
+    - Thumbnails have a resolution of 150x150
+
+SCRIPTING
+---------
+
+- Files are added statically using the 'addImages.js' script. A dictionay of the needed files is created using the python script 'listFiles.py'.
