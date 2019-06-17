@@ -2,13 +2,13 @@
 ---------
 
 - blog - tavo; wordpress
-- about - francis
 - shop - pending
 
 css
 ---------
 
 - body - depends on the html
+- Responsive design (check Bootstrap)
 
 
 Misc
@@ -16,7 +16,7 @@ Misc
 
 - design faq page
 - design privacy policy
-- design responsive design (XSmall <600px Width; Small 600-767px Width; Medium 768-1023px Width; Large >1024 px Width)
+
 
 done
 ---------
@@ -38,3 +38,5 @@ done
 - check links to society six, behance
 - thumbnails for the images
 - restructure the file name and size format and folders
+- about - francis
+- design responsive design (XSmall <600px Width; Small 600-767px Width; Medium 768-1023px Width; Large >1024 px Width)
