@@ -5,6 +5,7 @@
 - shop - pending
 - Add section "Graphic Design) - Tavo
 - Update thumbnails and works (Watercolor, digital media, tututuesday) - Tavo
+- Change "Tututuesday" to "Ballerinas" - Francis
 
 css
 ---------
