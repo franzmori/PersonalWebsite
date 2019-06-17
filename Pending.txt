@@ -3,6 +3,8 @@
 
 - blog - tavo; wordpress
 - shop - pending
+- Add section "Graphic Design) - Tavo
+- Update thumbnails and works (Watercolor, digital media, tututuesday) - Tavo
 
 css
 ---------
@@ -14,9 +16,12 @@ css
 Misc
 ---------
 
-- design faq page
-- design privacy policy
-
+- design faq page - Francis
+- design privacy policy ? - Francis
+- Review gallery content - Francis (june 2019)
+- Revisar base de datos - Tavo
+- Scripting - Tavo
+- Portal de admin y seguridad - Tavo
 
 done
 ---------
