@@ -3,9 +3,12 @@
 
 - blog - tavo; wordpress
 - shop - pending
-- Add section "Graphic Design) - Tavo
+- Add section "Graphic Design" - Tavo
 - Update thumbnails and works (Watercolor, digital media, tututuesday) - Tavo
-- Change "Tututuesday" to "Ballerinas" - Francis
+- HTML page de Privacy Policy
+- HTML page de FAQ
+- Agregar palomita de "acepto aviso de privacidad" a la forma
+
 
 css
 ---------
@@ -13,13 +16,12 @@ css
 - body - depends on the html
 - Responsive design (check Bootstrap)
 
-
 Misc
 ---------
 
+- Write FAQ - Francis
 - design faq page - Francis
-- design privacy policy ? - Francis
-- Review gallery content - Francis (june 2019)
+- Write privacy policy - Francis
 - Revisar base de datos - Tavo
 - Scripting - Tavo
 - Portal de admin y seguridad - Tavo
@@ -45,4 +47,6 @@ done
 - thumbnails for the images
 - restructure the file name and size format and folders
 - about - francis
+- Change "Tututuesday" to "Ballerinas" - Francis
+- Review gallery content - Francis (june 2019)
 - design responsive design (XSmall <600px Width; Small 600-767px Width; Medium 768-1023px Width; Large >1024 px Width)
