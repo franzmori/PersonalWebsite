@@ -6,7 +6,7 @@ results = {}
 for root, directories, filenames in os.walk(path):
     directory = root.replace(path, '')
     # print(directories)
-    # print(filenames)
+    #print(filenames)
 
     if directory != '':
         for filename in filenames:
